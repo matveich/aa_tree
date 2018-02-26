@@ -1,4 +1,5 @@
 #include <algorithm>
+
 using namespace std;
 
 class AA_Tree {
